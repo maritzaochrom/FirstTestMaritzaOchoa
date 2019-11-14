@@ -19,7 +19,9 @@
 
 * In the "_Images_" section, make all of the images appear side-by-side.
 
-* Give three `h3` elements in the html document the same class. * Change the color of the `h3` elements to orange using rbg. The size of the text should be `2em` and the font should be `Arial`. The text should appear as uppercase.
+* Give three `h3` elements in the html document the same class. 
+
+* Change the color of the `h3` elements to orange using rbg. The size of the text should be `2em` and the font should be `Arial`. The text should appear as uppercase.
 
 * Select all descendant links in the footer. Change the links' color to green on `visited` and red on `hover`.
 
