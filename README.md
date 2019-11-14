@@ -15,7 +15,7 @@
 * Align the text in the header to the center of the page.
 
 ### Content Styling 
-* Change the color of **this** list item (the list item in `index.html`) to blue.
+* In the "_List_" section, change the color of the second list item to blue.
 
 * In the "_Images_" section, make all of the images appear side-by-side.
 
@@ -37,4 +37,4 @@
 * Move the footer in HTML to the bottom of the document.
 
 ### Finishing Up 
-* Once you have finished all the tasks, strike out the all the list items (in the html document) that are **test instructions**. 
+* Once you have finished all the tasks, strike out the all the list items in the "_List_" section. 
