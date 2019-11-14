@@ -1,7 +1,7 @@
 # UI-Basics Test: First Test
 ## General Instructions
 
-* Work from the `index.html` file and a `main.css` file.
+* Work from the `index.html` file and a CSS stylesheet.
 
 * You can use google, but you cannot ask your teacher/s or your classmates for help. 
 
