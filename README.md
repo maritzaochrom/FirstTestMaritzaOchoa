@@ -1,6 +1,5 @@
 # UI-Basics Test: First Test
 ## General Instructions
-* All instructions can also be found in the `index.html` file. 
 
 * Work from the `index.html` file and a `main.css` file.
 
